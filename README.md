@@ -6,7 +6,6 @@ Words
 
 [Dictionary Link](https://github.com/doublejy715/Paper_review/issues/1)
 
----
 
 Image Generator
 ---------------
