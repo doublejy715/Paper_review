@@ -6,6 +6,10 @@ Words
 
 [Dictionary Link](https://github.com/doublejy715/Paper_review/issues/1)
 
+Survey github Homepage
+----------------------
+
+awesome gan-inversion [Link](https://github.com/weihaox/awesome-gan-inversion)
 
 Image Generator
 ---------------
