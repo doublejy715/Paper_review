@@ -23,4 +23,5 @@ No | Title | Conference | Year | Link | Code | Summary |
 5 | Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization(AdaIN) | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1703.06868) | [Code](https://github.com/xunhuang1995/AdaIN-style) | [Summary](https://github.com/doublejy715/Paper_review/issues/5) |
 6 | Image Style Transfer Using Convolutional Neural Network | CVPR, IEEE | 2016 | [IEEE](https://ieeexplore.ieee.org/document/7780634) | [Practice](https://github.com/ShaharAssenheim/Image-Style-Transfer-Using-Convolutional-Neural-Network) | [Summary](https://github.com/doublejy715/Paper_review/issues/6)|
 7 | InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2005.09635) | [Code](https://github.com/genforce/interfacegan) | [Summary](https://github.com/doublejy715/Paper_review/issues/7)|
-8 | | | | | | |
+8 | Fine-Tuning StyleGAN2 For Cartoon Face Generation | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2106.12445) | [Code](https://github.com/happy-jihye/Cartoon-StyleGan2) | [Summary](https://github.com/doublejy715/Paper_review/issues/8) |
+9 | | | | | | |
