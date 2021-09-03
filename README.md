@@ -6,12 +6,19 @@ Words
 
 [Dictionary Link](https://github.com/doublejy715/Paper_review/issues/1)
 
-Survey github Homepage
+Survey Github Homepage
 ----------------------
 
 awesome gan-inversion [Link](https://github.com/weihaox/awesome-gan-inversion)
 
-Image Generator
+To Do List
+------------
+No | Title | Conference | Year | Link | Code | Summary |  
+------------ | ------------- |----------|----------|----------|----------|----------|  
+1 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
+2 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V2 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v2)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
+
+Papers
 ---------------
 
 No | Title | Conference | Year | Link | Code | Summary |  
