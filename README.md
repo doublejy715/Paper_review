@@ -18,7 +18,6 @@ No | Title | Conference | Year | Link | Code | Summary |
 1 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
 2 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V2 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v2)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
 6 | Image Style Transfer Using Convolutional Neural Network | CVPR, IEEE | 2016 | [IEEE](https://ieeexplore.ieee.org/document/7780634) | [Practice](https://github.com/ShaharAssenheim/Image-Style-Transfer-Using-Convolutional-Neural-Network) | [Summary](https://github.com/doublejy715/Paper_review/issues/6)|
-9 | Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains V3 | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2010.05334v3) | None | [Summary](https://github.com/doublejy715/Paper_review/issues/9) |
 
 Papers
 ---------------
