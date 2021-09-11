@@ -17,7 +17,10 @@ No | Title | Conference | Year | Link | Code | Summary |
 ------------ | ------------- |----------|----------|----------|----------|----------|  
 1 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
 2 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V2 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v2)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
-6 | Image Style Transfer Using Convolutional Neural Network | CVPR, IEEE | 2016 | [IEEE](https://ieeexplore.ieee.org/document/7780634) | [Practice](https://github.com/ShaharAssenheim/Image-Style-Transfer-Using-Convolutional-Neural-Network) | [Summary](https://github.com/doublejy715/Paper_review/issues/6)|
+3 | Image Style Transfer Using Convolutional Neural Network | CVPR, IEEE | 2016 | [IEEE](https://ieeexplore.ieee.org/document/7780634) | [Practice](https://github.com/ShaharAssenheim/Image-Style-Transfer-Using-Convolutional-Neural-Network) | [Summary](https://github.com/doublejy715/Paper_review/issues/6)|
+4 | Interpreting the latent space of gans for semantic face editing |  |  | |  |  |
+5 | Stylerig: Rigging stylegan for 3d control over portrait images |  |  | |  |  |
+6 | Ganspace: Discovering interpretable gan controls |  |  | |  |  |
 
 Papers
 ---------------
