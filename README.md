@@ -22,6 +22,7 @@ No | Title | Conference | Year | Link | Code | Summary |
 5 | Stylerig: Rigging stylegan for 3d control over portrait images |  |  | |  |  |
 6 | Ganspace: Discovering interpretable gan controls |  |  | |  |  |
 7 | In-domain gan inversion for real image editing |  |  | |  |  |
+
 Papers
 ---------------
 
