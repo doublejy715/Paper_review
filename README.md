@@ -32,5 +32,5 @@ No | Title | Conference | Year | Link | Code | Summary |
 7 | InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2005.09635) | [Code](https://github.com/genforce/interfacegan) | [Summary](https://github.com/doublejy715/Paper_review/issues/7)|
 8 | Fine-Tuning StyleGAN2 For Cartoon Face Generation | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2106.12445) | [Code](https://github.com/happy-jihye/Cartoon-StyleGan2) | [Summary](https://github.com/doublejy715/Paper_review/issues/8) |
 9 | Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation(pSp) | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2008.00951v1) | [Code](https://github.com/eladrich/pixel2style2pixel) | [Summary](https://github.com/doublejy715/Paper_review/issues/10) |
-10 | Animating Arbitrary Objects via Deep Motion Transfer | CVPR | 2019 | [arXiv](https://arxiv.org/abs/1812.08861) | [Code](https://github.com/AliaksandrSiarohin/monkey-net) | [Summary]() |
+10 | Animating Arbitrary Objects via Deep Motion Transfer | CVPR | 2019 | [arXiv](https://arxiv.org/abs/1812.08861) | [Code](https://github.com/AliaksandrSiarohin/monkey-net) | [Summary](https://github.com/doublejy715/Paper_review/issues/11) |
 10 |  |  |  | |  |  |
