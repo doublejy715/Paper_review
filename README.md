@@ -26,6 +26,7 @@ No | Title | Conference | Year | Link | Code | Summary |
 9 | pix2pixHD |  |  | |  |  |
 10 | SPADE |  |  | |  |  |
 11 | MaskGAN |  |  | |  |  |
+12 | GANspace |  |  | |  |  |
 
 Papers
 ---------------
