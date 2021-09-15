@@ -18,11 +18,11 @@ No | Title | Conference | Year | Link | Code | Summary |
 1 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
 2 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V2 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v2)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
 3 | Image Style Transfer Using Convolutional Neural Network | CVPR, IEEE | 2016 | [IEEE](https://ieeexplore.ieee.org/document/7780634) | [Practice](https://github.com/ShaharAssenheim/Image-Style-Transfer-Using-Convolutional-Neural-Network) | [Summary](https://github.com/doublejy715/Paper_review/issues/6)|
-4 | Interpreting the latent space of gans for semantic face editing |  |  | |  |  |
-5 | Stylerig: Rigging stylegan for 3d control over portrait images |  |  | |  |  |
-6 | Ganspace: Discovering interpretable gan controls |  |  | |  |  |
-7 | In-domain gan inversion for real image editing |  |  | |  |  |
-8 | BicycleGAN |  |  | |  |  |
+4 | Interpreting the latent space of gans for semantic face editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/1907.10786)| None  | [Summary]() |
+5 | StyleRig: Rigging stylegan for 3d control over portrait images | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00121) | None | [summary]() |
+6 | Ganspace: Discovering interpretable gan controls | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.02546) | [Code](https://github.com/harskish/ganspace) | [Summary]() |
+7 | In-domain gan inversion for real image editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00049) | [Code](https://github.com/genforce/idinvert) | [Summary]() |
+8 | Toward Multimodal Image-to-Image Translation(BicycleGAN) | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11586) | [Code](https://github.com/junyanz/BicycleGAN) | [Summary]() |
 9 | pix2pixHD |  |  | |  |  |
 10 | SPADE |  |  | |  |  |
 11 | MaskGAN |  |  | |  |  |
