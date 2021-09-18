@@ -27,6 +27,8 @@ No | Title | Conference | Year | Link | Code | Summary |
 10 | SPADE |  |  | |  |  |
 11 | MaskGAN |  |  | |  |  |
 12 | GANspace |  |  | |  |  |
+13 | PGGAN |  |  | |  |  |
+14 | BigGNA |  |  | |  |  |
 
 Papers
 ---------------
