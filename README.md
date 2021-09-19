@@ -11,6 +11,8 @@ Survey Github Homepage
 
 awesome gan-inversion [Link](https://github.com/weihaox/awesome-gan-inversion)
 
+Model_ZOO / pre-trained model(PGGAN,StyleGAN,StyleGAN2) [Link](https://github.com/genforce/genforce/blob/master/MODEL_ZOO.md)
+
 To Do List
 ------------
 No | Title | Conference | Year | Link | Code | Summary |  
