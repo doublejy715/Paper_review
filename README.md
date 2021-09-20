@@ -13,24 +13,6 @@ awesome gan-inversion [Link](https://github.com/weihaox/awesome-gan-inversion)
 
 Model_ZOO / pre-trained model(PGGAN,StyleGAN,StyleGAN2) [Link](https://github.com/genforce/genforce/blob/master/MODEL_ZOO.md)
 
-To Do List
-------------
-No | Title | Conference | Year | Link | Code | Summary |  
------------- | ------------- |----------|----------|----------|----------|----------|  
-1 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
-2 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V2 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v2)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
-3 | Image Style Transfer Using Convolutional Neural Network | CVPR, IEEE | 2016 | [IEEE](https://ieeexplore.ieee.org/document/7780634) | [Practice](https://github.com/ShaharAssenheim/Image-Style-Transfer-Using-Convolutional-Neural-Network) | [Summary](https://github.com/doublejy715/Paper_review/issues/6)|
-4 | Interpreting the latent space of gans for semantic face editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/1907.10786)| None  | [Summary]() |
-5 | StyleRig : Rigging stylegan for 3d control over portrait images | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00121) | None | [summary]() |
-6 | Ganspace : Discovering interpretable gan controls | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.02546) | [Code](https://github.com/harskish/ganspace) | [Summary]() |
-7 | In-domain gan inversion for real image editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00049) | [Code](https://github.com/genforce/idinvert) | [Summary]() |
-8 | BicycleGAN : Toward Multimodal Image-to-Image Translation | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11586) | [Code](https://github.com/junyanz/BicycleGAN) | [Summary]() |
-9 | pix2pixHD : High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11585v1) | [Code](https://github.com/NVIDIA/pix2pixHD) | [Summary]() |
-10 | SPADE : Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR | 2019 | [arXiv](https://arxiv.org/abs/1903.07291) | [Code](https://github.com/NVlabs/SPADE) | [Summary]() |
-11 | MaskGAN : Batter Text Generation Via Filling In the _____ | ICLR | 2018 | [arXiv](https://arxiv.org/abs/1801.07736v1) | None | [Summary]() |
-12 | GANspace |  |  | |  |  |
-13 | PGGAN |  |  | |  |  |
-14 | BigGNA |  |  | |  |  |
 
 Papers
 ---------------
@@ -51,3 +33,23 @@ No | Title | Conference | Year | Link | Code | Summary |
 13 | StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2008.02401) | [Code](https://github.com/RameenAbdal/StyleFlow) | [Summary](https://github.com/doublejy715/Paper_review/issues/14) |
 14 | Closed-Form Factorization of Latent Semantics in GANs | CVPR | 2019 | [arXiv](https://arxiv.org/abs/2007.06600v1) | [Code](https://paperswithcode.com/paper/closed-form-factorization-of-latent-semantics) | [Summary](https://github.com/doublejy715/Paper_review/issues/16) |
 15 |  |  |  | |  |  |
+
+
+To Do List
+------------
+No | Title | Conference | Year | Link | Code | Summary |  
+------------ | ------------- |----------|----------|----------|----------|----------|  
+1 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
+2 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V2 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v2)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|  
+3 | Image Style Transfer Using Convolutional Neural Network | CVPR, IEEE | 2016 | [IEEE](https://ieeexplore.ieee.org/document/7780634) | [Practice](https://github.com/ShaharAssenheim/Image-Style-Transfer-Using-Convolutional-Neural-Network) | [Summary](https://github.com/doublejy715/Paper_review/issues/6)|
+4 | Interpreting the latent space of gans for semantic face editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/1907.10786)| None  | [Summary]() |
+5 | StyleRig : Rigging stylegan for 3d control over portrait images | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00121) | None | [summary]() |
+6 | Ganspace : Discovering interpretable gan controls | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.02546) | [Code](https://github.com/harskish/ganspace) | [Summary]() |
+7 | In-domain gan inversion for real image editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00049) | [Code](https://github.com/genforce/idinvert) | [Summary]() |
+8 | BicycleGAN : Toward Multimodal Image-to-Image Translation | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11586) | [Code](https://github.com/junyanz/BicycleGAN) | [Summary]() |
+9 | pix2pixHD : High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11585v1) | [Code](https://github.com/NVIDIA/pix2pixHD) | [Summary]() |
+10 | SPADE : Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR | 2019 | [arXiv](https://arxiv.org/abs/1903.07291) | [Code](https://github.com/NVlabs/SPADE) | [Summary]() |
+11 | MaskGAN : Batter Text Generation Via Filling In the _____ | ICLR | 2018 | [arXiv](https://arxiv.org/abs/1801.07736v1) | None | [Summary]() |
+12 | GANspace |  |  | |  |  |
+13 | PGGAN |  |  | |  |  |
+14 | BigGNA |  |  | |  |  |
