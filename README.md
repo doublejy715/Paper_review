@@ -32,7 +32,8 @@ No | Title | Conference | Year | Link | Code | Summary |
 12 | Controllable Person Image Synthesis with Attribute-Decomposed GAN(ADGAN) | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2003.12267)| [Code](https://github.com/menyifang/ADGAN) | [Summary](https://github.com/doublejy715/Paper_review/issues/13) |
 13 | StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2008.02401) | [Code](https://github.com/RameenAbdal/StyleFlow) | [Summary](https://github.com/doublejy715/Paper_review/issues/14) |
 14 | Closed-Form Factorization of Latent Semantics in GANs | CVPR | 2019 | [arXiv](https://arxiv.org/abs/2007.06600v1) | [Code](https://paperswithcode.com/paper/closed-form-factorization-of-latent-semantics) | [Summary](https://github.com/doublejy715/Paper_review/issues/16) |
-15 |  |  |  | |  |  |
+15 | StyleSpace Analysis : Disentangled Controls for StyleGAN Image Generation | CVPR | 2020 |[arXiv](https://arxiv.org/abs/2011.12799v1)| [Code](https://github.com/betterze/StyleSpace) | [Summary]() |
+16 |  |  |  | |  |  |
 
 
 To Do List
