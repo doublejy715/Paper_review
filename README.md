@@ -33,8 +33,8 @@ No | Title | Conference | Year | Link | Code | Summary |
 13 | StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2008.02401) | [Code](https://github.com/RameenAbdal/StyleFlow) | [Summary](https://github.com/doublejy715/Paper_review/issues/14) |
 14 | Closed-Form Factorization of Latent Semantics in GANs | CVPR | 2019 | [arXiv](https://arxiv.org/abs/2007.06600v1) | [Code](https://paperswithcode.com/paper/closed-form-factorization-of-latent-semantics) | [Summary](https://github.com/doublejy715/Paper_review/issues/16) |
 15 | StyleSpace Analysis : Disentangled Controls for StyleGAN Image Generation | CVPR | 2020 |[arXiv](https://arxiv.org/abs/2011.12799v1)| [Code](https://github.com/betterze/StyleSpace) | [Summary](https://github.com/doublejy715/Paper_review/issues/17) |
-16 |  |  |  | |  |  |
-
+16 | Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2104.14754) | [Code](https://github.com/naver-ai/StyleMapGAN) | [Summary](https://github.com/doublejy715/Paper_review/issues/18) |
+17 | |  |  | |  |  |
 
 To Do List
 ------------
