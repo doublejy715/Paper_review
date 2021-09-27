@@ -34,7 +34,7 @@ No | Title | Conference | Year | Link | Code | Summary |
 14 | Closed-Form Factorization of Latent Semantics in GANs | CVPR | 2019 | [arXiv](https://arxiv.org/abs/2007.06600v1) | [Code](https://paperswithcode.com/paper/closed-form-factorization-of-latent-semantics) | [Summary](https://github.com/doublejy715/Paper_review/issues/16) |
 15 | StyleSpace Analysis : Disentangled Controls for StyleGAN Image Generation ✅ | CVPR | 2020 |[arXiv](https://arxiv.org/abs/2011.12799v1)| [Code](https://github.com/betterze/StyleSpace) | [Summary](https://github.com/doublejy715/Paper_review/issues/17) |
 16 | StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2104.14754) | [Code](https://github.com/naver-ai/StyleMapGAN) | [Summary](https://github.com/doublejy715/Paper_review/issues/18) |
-17 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary]()|
+17 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary](https://github.com/doublejy715/Paper_review/issues/19)|
 18 | |  |  | |  |  |
 19 | |  |  | |  |  |
 
