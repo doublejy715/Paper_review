@@ -35,8 +35,7 @@ No | Title | Conference | Year | Link | Code | Summary |
 15 | StyleSpace Analysis : Disentangled Controls for StyleGAN Image Generation ✅ | CVPR | 2020 |[arXiv](https://arxiv.org/abs/2011.12799v1)| [Code](https://github.com/betterze/StyleSpace) | [Summary](https://github.com/doublejy715/Paper_review/issues/17) |
 16 | StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2104.14754) | [Code](https://github.com/naver-ai/StyleMapGAN) | [Summary](https://github.com/doublejy715/Paper_review/issues/18) |
 17 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 |CVPR |2020 |[arXiv](https://arxiv.org/abs/2002.10964v1)|[Code](https://github.com/sangwoomo/freezeD)|[Summary](https://github.com/doublejy715/Paper_review/issues/19)|
-18 | SPADE : Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR | 2019 | [arXiv](https://arxiv.org/abs/1903.07291) | [Code](https://github.com/NVlabs/SPADE) | [Summary](https://github.com/doublejy715/Paper_review/issues/21) |
-19 | Interpreting the latent space of gans for semantic face editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/1907.10786)| None  | [Summary](https://github.com/doublejy715/Paper_review/issues/20) |
+
 20 | |  |  | |  |  |
 
 To Do List
@@ -53,3 +52,5 @@ No | Title | Conference | Year | Link | Code | Summary |
 8 | GANspace |  |  | |  |  |
 9 | PGGAN |  |  | |  |  |
 10 | BigGAN |  |  | |  |  |
+18 | SPADE : Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR | 2019 | [arXiv](https://arxiv.org/abs/1903.07291) | [Code](https://github.com/NVlabs/SPADE) | [Summary](https://github.com/doublejy715/Paper_review/issues/21) |
+19 | Interpreting the latent space of gans for semantic face editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/1907.10786)| None  | [Summary](https://github.com/doublejy715/Paper_review/issues/20) |
