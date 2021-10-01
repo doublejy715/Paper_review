@@ -35,7 +35,7 @@ No | Title | Conference | Year | Link | Code | Summary |
 15 | StyleSpace Analysis : Disentangled Controls for StyleGAN Image Generation ✅ | CVPR | 2020 |[arXiv](https://arxiv.org/abs/2011.12799v1)| [Code](https://github.com/betterze/StyleSpace) | [Summary](https://github.com/doublejy715/Paper_review/issues/17) |
 16 | StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2104.14754) | [Code](https://github.com/naver-ai/StyleMapGAN) | [Summary](https://github.com/doublejy715/Paper_review/issues/18) |
 17 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2002.10964v1)| [Code](https://github.com/sangwoomo/freezeD)|[Summary](https://github.com/doublejy715/Paper_review/issues/19)|
-18 | pix2pix : Image-to-Image Translation with Conditional Adversarial Networks | CVPR | 2016 | [arXiv](https://arxiv.org/abs/1611.07004v1) | [Code](https://github.com/phillipi/pix2pix) | [Summary]()
+18 | pix2pix : Image-to-Image Translation with Conditional Adversarial Networks | CVPR | 2016 | [arXiv](https://arxiv.org/abs/1611.07004v1) | [Code](https://github.com/phillipi/pix2pix) | [Summary](https://github.com/doublejy715/Paper_review/issues/22)
 19 | CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1703.10593v1) | [Code-pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | [Summary]()
 20 | pix2pixHD : High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11585v1) | [Code](https://github.com/NVIDIA/pix2pixHD) | [Summary]() |
 
