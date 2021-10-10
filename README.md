@@ -13,6 +13,10 @@ awesome gan-inversion [Link](https://github.com/weihaox/awesome-gan-inversion)
 
 Model_ZOO / pre-trained model(PGGAN,StyleGAN,StyleGAN2) [Link](https://github.com/genforce/genforce/blob/master/MODEL_ZOO.md)
 
+Thesis reading orther
+----------------------
+[Link](https://media-ai.tistory.com/7)
+
 
 Papers
 ---------------
@@ -36,8 +40,7 @@ No | Title | Conference | Year | Link | Code | Summary |
 16 | StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2104.14754) | [Code](https://github.com/naver-ai/StyleMapGAN) | [Summary](https://github.com/doublejy715/Paper_review/issues/18) |
 17 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2002.10964v1)| [Code](https://github.com/sangwoomo/freezeD)|[Summary](https://github.com/doublejy715/Paper_review/issues/19)|
 18 | pix2pix : Image-to-Image Translation with Conditional Adversarial Networks | CVPR | 2016 | [arXiv](https://arxiv.org/abs/1611.07004v1) | [Code](https://github.com/phillipi/pix2pix) | [Summary](https://github.com/doublejy715/Paper_review/issues/22)
-19 | CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1703.10593v1) | [Code-pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | [Summary](https://github.com/doublejy715/Paper_review/issues/23)
-20 | pix2pixHD : High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11585v1) | [Code](https://github.com/NVIDIA/pix2pixHD) | [Summary]() |
+
 
 To Do List
 ------------
@@ -48,9 +51,11 @@ No | Title | Conference | Year | Link | Code | Summary |
 3 | Ganspace : Discovering interpretable gan controls | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.02546) | [Code](https://github.com/harskish/ganspace) | [Summary]() |
 4 | In-domain gan inversion for real image editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00049) | [Code](https://github.com/genforce/idinvert) | [Summary]() |
 5 | BicycleGAN : Toward Multimodal Image-to-Image Translation | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11586) | [Code](https://github.com/junyanz/BicycleGAN) | [Summary]() |
-7 | MaskGAN : Batter Text Generation Via Filling In the _____ | ICLR | 2018 | [arXiv](https://arxiv.org/abs/1801.07736v1) | None | [Summary]() |
-8 | GANspace |  |  | |  |  |
-9 | PGGAN |  |  | |  |  |
-10 | BigGAN |  |  | |  |  |
-18 | SPADE : Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR | 2019 | [arXiv](https://arxiv.org/abs/1903.07291) | [Code](https://github.com/NVlabs/SPADE) | [Summary](https://github.com/doublejy715/Paper_review/issues/21) |
-19 | Interpreting the latent space of gans for semantic face editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/1907.10786)| None  | [Summary](https://github.com/doublejy715/Paper_review/issues/20) |
+6 | MaskGAN : Batter Text Generation Via Filling In the _____ | ICLR | 2018 | [arXiv](https://arxiv.org/abs/1801.07736v1) | None | [Summary]() |
+7 | GANspace |  |  | |  |  |
+8 | PGGAN |  |  | |  |  |
+9 | BigGAN |  |  | |  |  |
+10 | SPADE : Semantic Image Synthesis with Spatially-Adaptive Normalization | CVPR | 2019 | [arXiv](https://arxiv.org/abs/1903.07291) | [Code](https://github.com/NVlabs/SPADE) | [Summary](https://github.com/doublejy715/Paper_review/issues/21) |
+11 | Interpreting the latent space of gans for semantic face editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/1907.10786)| None  | [Summary](https://github.com/doublejy715/Paper_review/issues/20) |
+12 | CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1703.10593v1) | [Code-pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | [Summary](https://github.com/doublejy715/Paper_review/issues/23)
+23 | pix2pixHD : High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs | CVPR | 2017 | [arXiv](https://arxiv.org/abs/1711.11585v1) | [Code](https://github.com/NVIDIA/pix2pixHD) | [Summary]() |
