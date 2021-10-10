@@ -15,7 +15,9 @@ Model_ZOO / pre-trained model(PGGAN,StyleGAN,StyleGAN2) [Link](https://github.co
 
 Thesis reading orther
 ----------------------
-[Link](https://media-ai.tistory.com/7)
+[논문 읽기 시작](https://gradschoolstory.net/tag/%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0/)
+[1. Link](https://media-ai.tistory.com/7)
+[2. Link](https://karl6885.github.io/data_science/2020/06/24/Andrew-Ng-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EB%8A%94-%EB%B2%95-ML-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%A1%B0%EC%96%B8/)
 
 0. 여러번 읽고, 읽는 범위를 늘려나간다.  
 1. title, abstract, figure를 먼저 보기  
@@ -40,7 +42,9 @@ Thesis reading orther
   5.3 당신은 스스로 이 논문을 이용할 수 있는가?  
   5.4 당신이 참고하고 싶은 다른 레퍼런스에는 어떤 것이 있는가?  
   
-더 자세히 이해하기
+2번 issue page를 적는다. 
+  
+### 더 자세히 이해하기
 1. 수식 이해하기
   - 밑바닥부터 직접 연산해 보기.
 2. 코드 연습하기
