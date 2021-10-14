@@ -76,6 +76,7 @@ No | Title | Conference | Year | Link | Code | Skimming | Summary |
 17 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs V1 | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2002.10964v1)| [Code](https://github.com/sangwoomo/freezeD)||[Summary](https://github.com/doublejy715/Paper_review/issues/19)|
 18 | pix2pix : Image-to-Image Translation with Conditional Adversarial Networks | CVPR | 2016 | [arXiv](https://arxiv.org/abs/1611.07004v1) | [Code](https://github.com/phillipi/pix2pix) | |[Summary](https://github.com/doublejy715/Paper_review/issues/22)
 19 | e4e : Designing an Encoder for StyleGAN Image Manipulation | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2102.02766) | [Code](https://github.com/omertov/encoder4editing) | [Skimming]() | [Summary]()
+20 | In-domain gan inversion for real image editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00049) | [Code](https://github.com/genforce/idinvert)| [Skimming]()| [Summary]() |
 
 To Do List
 ------------
