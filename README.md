@@ -60,9 +60,13 @@ Reading...
 - 얼굴 인식 단계별 설명
 - 소프트맥스 손실 함수
 - 거리기반 손실 함수
-- 앵귤러 마진 기발 손실 함수
-- 
+- 앵귤러 마진 기반 손실 함수
 
+[Link 2. Arcface paper review](https://soobarkbar.tistory.com/60)
+- 논문 전체적인 설명
+
+[Link 3. Arcface logic 1](https://butter-shower.tistory.com/237)
+[Link 4. Arcface logic 2](https://hongl.tistory.com/189)
 
 Papers
 ---------------
