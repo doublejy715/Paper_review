@@ -53,6 +53,17 @@ Thesis reading orther
   - 오픈소스를 다운받아서 실행해 본다.
   - 밑바닥부터 직접 구현해본다.
 
+Reading...
+---------------
+## 1. Arcface
+[Link 1.](https://tech.kakaoenterprise.com/63)
+- 얼굴 인식 단계별 설명
+- 소프트맥스 손실 함수
+- 거리기반 손실 함수
+- 앵귤러 마진 기발 손실 함수
+- 
+
+
 Papers
 ---------------
 
