@@ -53,7 +53,7 @@ Thesis reading orther
   - 오픈소스를 다운받아서 실행해 본다.
   - 밑바닥부터 직접 구현해본다.
 
-investigation About
+Investigation About...
 ---------------
 ## 1. Arcface
 [Link 1.](https://tech.kakaoenterprise.com/63)  
