@@ -78,7 +78,7 @@ No | Title | Conference | Year | Link | Code | Skimming | Summary |
 19 | e4e : Designing an Encoder for StyleGAN Image Manipulation | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2102.02766) | [Code](https://github.com/omertov/encoder4editing) | [Skimming]() | [Summary]() |
 20 | In-domain gan inversion for real image editing | CVPR | 2020 | [arXiv](https://arxiv.org/abs/2004.00049) | [Code](https://github.com/genforce/idinvert)| [Skimming](https://github.com/doublejy715/Paper_review/issues/24)| [Summary]() |
 21 | StyleClip : Text-Driven Manipulation of StyleGAN Imagery | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2103.17249) | [Code](https://github.com/orpatashnik/StyleCLIP)| [Skimming](https://github.com/doublejy715/Paper_review/issues/25)| [Summary](https://github.com/doublejy715/Paper_review/issues/26) |
-22 | DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2105.08935) | [Code](http://geometrylearning.com/DeepFaceEditing/)| [Skimming](https://github.com/doublejy715/Paper_review/issues/27)| [Summary]() |
+22 | DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2105.08935) | [Code](http://geometrylearning.com/DeepFaceEditing/)| [Skimming](https://github.com/doublejy715/Paper_review/issues/27)| [Summary](https://github.com/doublejy715/Paper_review/issues/28) |
 
 To Do List
 ------------
