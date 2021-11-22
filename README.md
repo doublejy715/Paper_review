@@ -40,6 +40,7 @@ No | Title | Conference | Year | Link | Code | Skimming | Summary |
 21 | StyleClip : Text-Driven Manipulation of StyleGAN Imagery | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2103.17249) | [Code](https://github.com/orpatashnik/StyleCLIP)| [Skimming](https://github.com/doublejy715/Paper_review/issues/25)| [Summary](https://github.com/doublejy715/Paper_review/issues/26) |
 22 | DeepFaceEditing : Deep Face Generation and Editing with Disentangled Geometry and Appearance Control | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2105.08935) | [Code](http://geometrylearning.com/DeepFaceEditing/)| [Skimming](https://github.com/doublejy715/Paper_review/issues/27)| [Summary](https://github.com/doublejy715/Paper_review/issues/28) |
 23 | StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2104.14754v1) | [Code](https://github.com/naver-ai/StyleMapGAN)| [Skimming](https://github.com/doublejy715/Paper_review/issues/29)| [Summary]() |
+24 | DCGAN:Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks | CVPR | 2015 | [arXiv](https://arxiv.org/abs/1511.06434v1) | [Code]()| [Skimming]()| [Summary]() |
 
 To Do List
 ------------
