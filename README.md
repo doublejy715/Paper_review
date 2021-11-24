@@ -41,8 +41,8 @@ No | Title | Conference | Year | Link | Code | Skimming | Summary |
 22 | DeepFaceEditing : Deep Face Generation and Editing with Disentangled Geometry and Appearance Control | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2105.08935) | [Code](http://geometrylearning.com/DeepFaceEditing/)| [Skimming](https://github.com/doublejy715/Paper_review/issues/27)| [Summary](https://github.com/doublejy715/Paper_review/issues/28) |
 23 | StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing | CVPR | 2021 | [arXiv](https://arxiv.org/abs/2104.14754v1) | [Code](https://github.com/naver-ai/StyleMapGAN)| [Skimming](https://github.com/doublejy715/Paper_review/issues/29)| [Summary]() |
 24 | DCGAN:Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks | CVPR | 2015 | [arXiv](https://arxiv.org/abs/1511.06434v1) | [Code]()| [Skimming](https://github.com/doublejy715/Paper_review/issues/30)| [Summary]() |
-25 | Pix2pix : Image-to-Image Translation with Conditional Adversarial Networks | CVPR | 2015 | [arXiv](https://arxiv.org/abs/1611.07004) | [Code]()| [Skimming](https://github.com/doublejy715/Paper_review/issues/31)| [Summary]() |
-
+25 | Pix2pix : Image-to-Image Translation with Conditional Adversarial Networks | CVPR | 2016 | [arXiv](https://arxiv.org/abs/1611.07004) | [Code]()| [Skimming](https://github.com/doublejy715/Paper_review/issues/31)| [Summary]() |
+26 | GAN Dissection: Visualizing and Understanding Generative Adversarial Networks | CVPR | 2015 | [arXiv](https://arxiv.org/abs/1811.10597) | [Code]()| [Skimming](https://github.com/doublejy715/Paper_review/issues/32)| [Summary]() |
 
 To Do List
 ------------
