@@ -1,126 +1,42 @@
-Paper Review
-============
+# 공사중 입니다...
+## How to Read?
 
-Words
------
-
-[Dictionary Link](https://github.com/doublejy715/Paper_review/issues/1)
-
-Survey Github Homepage
+Thesis reading orther
 ----------------------
+[논문 읽기 시작](https://gradschoolstory.net/tag/%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0/)  
+[1. Link](https://media-ai.tistory.com/7)  
+[2. Link](https://karl6885.github.io/data_science/2020/06/24/Andrew-Ng-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EB%8A%94-%EB%B2%95-ML-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%A1%B0%EC%96%B8/)  
 
-awesome gan-inversion [Link](https://github.com/weihaox/awesome-gan-inversion)
+### Skimming
+0. 여러번 읽고, 읽는 범위를 늘려나간다.  
+1. title, abstract, figure를 먼저 보기  
+  - figure : 설명 부분을 읽는다.
+  - 논문의 기본적인 컨셉과 아이디어를 파악한다.
+> 노트를 통해서 title, abstract, figure 부분의 중요한 부분을 밑줄친다.
+> 요약 부분을 발최하고 그래프로 만들어 놓는다.
+2. introduction, conclusion, figure 읽기  
+  - introduction, conclusion : 왜 자신의 논문이 게재 승인되어야 하는지를 파악한다.
+  - 관련된 다른 연구에 대한 부분은 가능하면 생략
+> 노트를 이용해서 해당 부분에서 승인 이유, 논문 내용 요약 부분을 찾아낸다.
+> (1),(2) issue에 기록한다.
+> 모르는 단어를 기록하고 설명을 덧붙인다.
+3. 수식은 일단 생략
+> skimming issue를 작성한다.
 
-Model_ZOO / pre-trained model(PGGAN,StyleGAN,StyleGAN2) [Link](https://github.com/genforce/genforce/blob/master/MODEL_ZOO.md)
-
-A Survey on Generative Adversarial Networks : Variants, Applications, and Training
-
-Background
------------
-|#|Subject|Pub|Year|
-|:------:|---|:---:|:---:|
-|1 |Autoencoder(AE)|||
-|2 |Variational Autoencoder(VAE)|||
-|3 |Generatrivve Adversarial Networks(GAN)|||
-|4 | Vector Quantized Variational AutoEncoder-2(VQ-VAE-2)|||
-
-Extented papers from GAN
-------------------------
-|#|Subject|Pub|Year|
-|:------:|---|:---:|:---:|
-|1 |Conditional Generative Adversarial Networks (CGAN)|arXiv|2014|
-|2 |Deep Convolution Generative Adversarial Networks (DCGAN)|CoRR|2015|
-|3 |Laplacian Generative Adversarial Networks (LapGAN) |NIPS|2015|
-|4 |Information Maximizing Generative Adversarial Networks (InfoGAN) |NIPS|2016|
-|5 |Energy-Based Generative Adversarial Networks (EBGAN)|ICLR|2016|
-|6 |Wasserstein Generative Adversarial Networks (WGAN)|ICML|2017|
-|7 |Boundary Equilibrium Generative Adversarial Networks (BEGAN)|CSLG|2017|
-|8 |Progressive-Growing Generative Adversarial Networks (PGGAN)|ICLR|2018|
-|9 |Big Generative Adversarial Networks (BigGAN) |ICLR|2019|
-|10 |Style-Based Generator Architecture for Generative Adversarial Networks(StyleGAN)|IEEE|2019|
-
-
-Applications
--------------------
-
-### 1. Image domain
-#### 1.1 Hnad-written Chinese characters generation
-|#|Subject|Pub|Year|
-|:------:|---|:---:|:---:|
-|1 |Conditional Least Square GAN(LSCGAN)|||
-
-#### 1.2 Anime character generation
-
-#### 1.3 Image blending
-
-#### 1.4 Image in-painting
-
-#### 1.5 Face aging
-
-#### 1.6 Text-to-image synthesis
-
-#### 1.7 Human pose synthesis
-
-#### 1.8 Stenographic applications
-
-#### 1.9 Image manipulation applications
-
-#### 1.10 Visual saliency prediction
-
-#### 1.11 Object detection
-
-#### 1.12 3D image synthesis
-
-#### 1.13 Facial makeup transfer
-
-#### 1.14 Facial landmark detection
-
-#### 1.15 Image super-resolution
-
-#### 1.16 Texture synthesis
-
-#### 1.17 Sketch synthesis
-
-#### 1.18 Image-to image translation(I2I)
-
-#### 1.19 Face frontal view generation
-
-### 2. Audio domain
-#### 2.1 Language and Speech Synthesis
-#### 2.2 Music generation
-#### 2.3 Others sequential domain applications
-
-### 3. Video domain
-#### 3.1 Video applications
-#### 3.2 Others video domain applications
-
-### 4. GAN training
-#### 4.1. Problems with training GAN
-- Nash equilibrium
-- Internal coveriate shift
-- Mode collapse
-- Vanishing gradient
-- Lack of proper evaluation metrics
-
-#### 4.2 Analysis of GAN training obstacles
-#### 4.3 Techniques to improve GAN training
-- Feature matching
-- Unrolled GAN(UGAN)
-- Mini-batch discrimination(MBD)
-- Historical averaging(HA)
-- Two time-scale update rule(TTUR)
-- Hybrid model
-- Self-Attention GAN(SAGAN)
-- Relativistic GAN(RGAN)
-- One-sided label smoothing
-- Sampling GAN
-- Proper optimizer
-- Normalization
-  BN,VBN,LN,WN,IN,GN,BIN,SN
-- Add instance noise
-- Train with labels
-- Alternative cost functions
-- Gradient penalty(GP)
-- Cycle-consistency loss
-
-#### 4.4 Performance analysis
+### Reading
+4. 이해가 안되는 부분은 뺴고 전체적으로 읽기
+  - 처음 볼 때 완벽하게 이해하지 못해도 된다.
+> github issue로 전제적인 내용 '해석' 한다.
+> 너무 어려우면 내용을 패스한다.(노트에 빨강색으로 highlight한다.)
+5. 스스로 질문의 시간을 가진다.  
+  5.1 저자가 뭘 해내고 싶어했는가?  
+  5.2 이 연구의 접근에서 중요한 요소는 무엇인가?  
+  5.3 당신은 스스로 이 논문을 이용할 수 있는가?  
+  5.4 당신이 참고하고 싶은 다른 레퍼런스에는 어떤 것이 있는가?  
+> summary issue를 작성한다. 마지막에 요약을 추가한다.
+### 더 자세히 이해하기
+1. 수식 이해하기
+  - 밑바닥부터 직접 연산해 보기.
+2. 코드 연습하기
+  - 오픈소스를 다운받아서 실행해 본다.
+  - 밑바닥부터 직접 구현해본다.
