@@ -53,10 +53,13 @@ high-frequency에 대해서 진짜와 비슷한 이미지를 생성해 주도록
 
 Discriminator에는 input으로 생성된 이미지의 일부만 들어가게 된다.
 
+> **THINK**  
 > 이미지의 일부를 사용할때 Patch를 grid로 나눠서 중복되는 영역이 존재하지 않는지, Conv의 slide 형식으로 나눠 중복되는 영역이 존재하는지는 잘 모르겠다.
 
 해당 방식은 discriminator를 좀 더 약하게 만들어 준다고 볼 수 있다.
 
 70x70 PatchGAN을 사용했을 때 가장 좋은 FCN-score를 얻었다.
 
+
+> **THINK**  
 > 아마 더 자세한 부분을 봐야하므로, 기존 Discriminator의 학습해야할 난이도 보다 더욱 어려워 졌기 때문에 아닐까 싶다.
