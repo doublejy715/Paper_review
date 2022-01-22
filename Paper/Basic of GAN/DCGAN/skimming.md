@@ -32,6 +32,7 @@
 
 [Training Neural networks](https://happy-jihye.github.io/cs231n/cs231n-6/#4-batch-normalization)
 
+
 ## Activation Function
 - output 빼고 generator의 모든 layer에 ReLu activation을 적용하였음
 - discriminator의 모든 layer에 LeakyReLU activation을 적용하였음
