@@ -1,1 +1,1 @@
-![Gen&Dis](https://github.com/doublejy715/Paper_review/blob/main/images/GAN/G%26D.png)
+![Gen&Dis](image/G&D.png)
