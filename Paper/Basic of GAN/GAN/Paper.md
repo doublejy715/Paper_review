@@ -1,1 +1,1 @@
-![Gen&Dis](images/GAN/Generator&Discriminator.png)
+![Gen&Dis](images/GAN/G&D.png)
