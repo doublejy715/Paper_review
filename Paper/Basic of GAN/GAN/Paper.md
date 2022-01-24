@@ -1,0 +1,1 @@
+![Gen&Dis](images/GAN/Generator&Discriminator.png)
