@@ -41,13 +41,9 @@ G와 D의 resolution을 upsampling할 때, PGGAN은 새로운 layer에 "fade in"
 
 #### (2) fade in method
 layer를 추가할 때 바로 추가하는 것이 아니라 residual block을 적용하는 중간 단계를 거친다.
-- 처음 $\alpha$ 를 0으로 초기화 해주고 학습을 진행할 수록 $\alpha$ 를 1로 증가시켜가며 큰 해상도에 대해 생성한 값을 불러오도록 한다.
+- 처음 $ \alpha $ 를 0으로 초기화 해주고 학습을 진행할 수록 $\alpha$ 를 1로 증가시켜가며 큰 해상도에 대해 생성한 값을 불러오도록 한다.
 
 #### (3) stabilize
 resolution을 높이면서(32x32) 학습을 진행할 때, 기존에 학습했던 이미지에 대한 정보(16x16)을 잊어버릴 수도 있으니까 residual block을 이용하여 한번 더 더해주는 것이다. 해상도를 줄이는 경우도 마찬가지의 이유로 Fade in을 해준다.
 
 
-```{math}
-test^{x}
-```
-s
