@@ -47,6 +47,7 @@ layer를 추가할 때 바로 추가하는 것이 아니라 residual block을 �
 resolution을 높이면서(32x32) 학습을 진행할 때, 기존에 학습했던 이미지에 대한 정보(16x16)을 잊어버릴 수도 있으니까 residual block을 이용하여 한번 더 더해주는 것이다. 해상도를 줄이는 경우도 마찬가지의 이유로 Fade in을 해준다.
 
 
-'''{math}
+```{math}
 test^{x}
-'''
+```
+s
